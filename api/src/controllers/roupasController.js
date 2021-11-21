@@ -1,4 +1,4 @@
-import db from '.';
+import db from '../db';
 import express from 'express';
 const Router = express.Router;
 const app = Router();
